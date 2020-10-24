@@ -14,3 +14,11 @@
     font-family:sans-serif;
     text-align: CENTER;
 }
+.footer{
+    background: rgb(65, 12, 209);
+    padding:  50PX ;
+    font-size: 32px;
+    color: white;
+    font-family:sans-serif;
+    text-align: CENTER;
+}
